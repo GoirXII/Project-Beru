@@ -832,3 +832,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.09-18.20.04:406][261]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.09-18.20.04:406][261]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level01_BuiltData.Level01_BuiltData
 [2021.10.09-18.20.04:406][261]LogContentValidation: Display: Validating World /Game/Level01.Level01
+[2021.10.09-18.25.40:791][372]Cmd: TRANSACTION UNDO
+[2021.10.09-18.25.40:791][372]LogEditorTransaction: Undo Move Actors
+[2021.10.09-18.26.04:147][855]Cmd: SELECT NONE
+[2021.10.09-18.26.07:411][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.10.09-18.26.07:427][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level01" FILE="../../../../../../Creative Work/Project Beru/Project-Beru/ProjectBeru/Content/Level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.09-18.26.07:440][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.10.09-18.26.07:549][239]LogSavePackage: Moving '../../../../../../Creative Work/Project Beru/Project-Beru/ProjectBeru/Saved/Level01BCFA096A41C26DECEB0ADFAE34462843.tmp' to '../../../../../../Creative Work/Project Beru/Project-Beru/ProjectBeru/Content/Level01.umap'
+[2021.10.09-18.26.07:575][239]LogFileHelpers: Saving map 'Level01' took 0.148
+[2021.10.09-18.26.07:582][239]AssetCheck: New page: Asset Save: Level01
+[2021.10.09-18.26.07:582][239]LogContentValidation: Display: Validating World /Game/Level01.Level01
