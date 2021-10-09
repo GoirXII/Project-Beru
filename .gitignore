@@ -75,3 +75,9 @@ DerivedDataCache/*
 *.uasset
 ProjectBeru/Content/Cave/Maps/Demonstration.umap
 ProjectBeru/Content/Cave/Maps/Overview.umap
+*.ini
+*.bin
+*.log
+ProjectBeru/Saved/AutoScreenshot.png
+ProjectBeru/Saved/Autosaves/PackageRestoreData.json
+ProjectBeru/Saved/Logs/ProjectBeru.log
